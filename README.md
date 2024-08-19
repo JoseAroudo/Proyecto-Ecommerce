@@ -1,14 +1,15 @@
-## Proyecto-Ecommerce
-Proyecto personal para practicar lo que son las tecnologías.
+# Proyecto-Ecommerce 
+## Proyecto personal para practicar mis habilidades en el desarrollo de software con algunas tecnologías como:
 
-#BackEnd
-FastAPI
 
-#FrontEnd
-react
+### BackEnd:    
+FastAPI🐍 ⛈️
 
-#Deployment
-thinking...
+### FrontEnd:    
+react☢️⚛️
 
-#ControlVersion
-Github
+### Deployment:    
+thinking...💭
+
+### ControlVersion:    
+Github🐈‍⬛
